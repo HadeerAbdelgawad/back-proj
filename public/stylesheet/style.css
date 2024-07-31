@@ -13,17 +13,17 @@ h1{
     display: flex;
     justify-content: space-evenly;
 }
-#header1 a{
-    text-decoration: none;
-    margin-top: 10px;
-    font-size: 25px;
-    color: rgb(61, 90, 100);
-}
 .headt{
     margin-top: 60px;
     display: flex;
     justify-content: center;
     color: rgb(101, 109, 126);
+}
+#header1 a{
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 25px;
+    color: rgb(61, 90, 100);
 }
 /* //////////////////////////////////////////////////////// */
 .footer{
